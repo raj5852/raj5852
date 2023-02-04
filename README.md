@@ -7,7 +7,6 @@ I'm a full-stack developer.
 Skills: PHP / Laravel / MySql / HTML / CSS/  Bootstrap / JS / jQuery 
 
 - 🔭 I’m currently working on Upwork 
-- 🌱 I’m currently learning Vue js 
 
 
 
